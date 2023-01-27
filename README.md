@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @Kbkar
+- 📫 How to reach me @Kbkar https://www.kaggle.com/kbkarthi
 
 <!---
 Kbkar/Kbkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
